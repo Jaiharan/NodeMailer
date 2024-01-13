@@ -4,7 +4,7 @@
 # To install this project
  1. Download or clone this repository.
  2. Provide ur valid Environment variables in .env file.
- 3. Open terminal, Type Node sendMail.js
+ 3. Open terminal,Run Node sendMail.js to execute
  4. Mail will be sent.
 
 # HAPPY CODING
